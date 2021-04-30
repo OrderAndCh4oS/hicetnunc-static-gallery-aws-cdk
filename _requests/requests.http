@@ -1,14 +1,14 @@
-GET {{url}}/prod/collections/tz1VgpmwW66LCbskjudK54Zp96vKn2cHjpGN
+GET {{url}}/prod/collections/WALLET_ID
 Accept: application/json
 
 ###
 
-GET {{url}}/prod/collections/tz1VgpmwW66LCbskjudK54Zp96vKn2cHjpGN
+GET {{url}}/prod/collections/WALLET_ID
 Accept: application/json
 
 ###
 
-GET {{url}}/prod/swaps/tz1VgpmwW66LCbskjudK54Zp96vKn2cHjpGN
+GET {{url}}/prod/swaps/WALLET_ID
 Accept: application/json
 
 ###
