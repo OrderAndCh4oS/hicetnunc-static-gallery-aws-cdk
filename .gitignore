@@ -8,6 +8,7 @@ lambdas/node_modules
 .cdk.staging
 cdk.out
 
+!lambdas/*.js
 !static-site/**/*.js
 
 .idea
